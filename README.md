@@ -1,1 +1,0 @@
-# labLIP2-template
